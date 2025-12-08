@@ -1,0 +1,25 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+*.apk
+*.bat
+*.db
+*.dll
+*.exe
+*.zip
+*.so
+*.csproj
+*.unityproj
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.tmp
+*.sln

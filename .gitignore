@@ -1,0 +1,31 @@
+# Unity: büyük klasörleri asla track etme
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Bb]ee/
+UserSettings/
+MemoryCaptures/
+*.pidb
+*.userprefs
+
+# Çeşitli derleme / IDE dosyaları
+*.apk
+*.exe
+*.dll
+*.so
+*.a
+*.pdb
+*.mdb
+*.db
+*.zip
+
+*.sln
+*.csproj
+*.unityproj
+*.tmp
+
+# macOS
+.DS_Store

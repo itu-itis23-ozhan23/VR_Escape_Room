@@ -916,7 +916,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -936,11 +942,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7a6d948c-8e41-435a-97da-b9bc07c36a0b
+  cloudProjectId: f07baed8-7512-41ad-b2da-5a0513fdff0a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: VR_Escape_Room
-  organizationId: elif-i-l-zhan
+  organizationId: fialova7
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
